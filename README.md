@@ -1,6 +1,7 @@
 # Sphagnum Shade vs. Warming
 
 Comparing the isolated effects of canopy shading and long-term whole-ecosystem warming on *Sphagnum* moss tissue water content using two independently published datasets from the SPRUCE experiment at Marcell Experimental Forest, Minnesota.
+Dataset: https://mnspruce.ornl.gov/datasets/spruce-sphagnum-growth-and-photosynthesis-responses-to-shading-treatments-2021
 
 ---
 
